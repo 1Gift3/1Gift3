@@ -1,0 +1,7 @@
+Hello Josh
+
+A mail send by Python.
+
+What do you need to look into the code?
+
+Kind regards
